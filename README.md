@@ -35,7 +35,7 @@ Execute the programs and publish them.
 </head>
 <body> 
     <h1 align="center"><font color="Black"><b>Ambattur</b></font></h1>
-    <h2 align="center"><font color="Black"><b>Kamlesh Y (212224100029)</b></font></h2>
+    <h2 align="center"><font color="Black"><b>ASHISH S(212224240017)</b></font></h2>
     <center>
         <img src="map.png" usemap="#MyCity" height="610" width="1243">
 
@@ -159,7 +159,7 @@ Execute the programs and publish them.
 
 ## OUTPUT
 
-<img width="1856" height="999" alt="image" src="https://github.com/user-attachments/assets/f513bae4-41bb-4637-91c4-05c798c01e2d" />
+<img width="1919" height="1027" alt="image" src="https://github.com/user-attachments/assets/883cda85-5c06-4341-8cd6-a6afd6e39163" />
 
 <img width="1853" height="993" alt="image" src="https://github.com/user-attachments/assets/8c85777b-d220-4d7d-bc80-cab8b7187a6c" />
 
